@@ -1,6 +1,6 @@
 # Running Strapi API:
 
-1. Navigate to the `utkarsh-pepper-assessment` directory in your terminal.
+1. Navigate to the `backend-strapi-pepper-utkarsh-v1` directory in your terminal.
 2. Ensure you have Node.js and npm installed on your system.
 3. Run `npm install` to install the required dependencies.
 4. After the installation is complete, run `npm run develop` to start the Strapi server locally.
