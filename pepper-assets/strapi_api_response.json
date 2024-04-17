@@ -1,0 +1,380 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "eventTitle": "Spring Concert",
+        "eventDate": "2024-04-01",
+        "createdAt": "2024-04-16T15:27:49.157Z",
+        "updatedAt": "2024-04-16T15:53:53.980Z",
+        "publishedAt": "2024-04-16T15:32:04.750Z",
+        "eventImage": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "pepper-spring-concert.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 379,
+              "height": 271,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_pepper-spring-concert.jpg",
+                  "hash": "thumbnail_pepper_spring_concert_983749e277",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 218,
+                  "height": 156,
+                  "size": 9.79,
+                  "sizeInBytes": 9786,
+                  "url": "/uploads/thumbnail_pepper_spring_concert_983749e277.jpg"
+                }
+              },
+              "hash": "pepper_spring_concert_983749e277",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 21.56,
+              "url": "/uploads/pepper_spring_concert_983749e277.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-04-16T15:53:51.034Z",
+              "updatedAt": "2024-04-16T15:53:51.034Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "eventTitle": "Earth Day Celebration",
+        "eventDate": "2024-04-03",
+        "createdAt": "2024-04-16T15:31:50.266Z",
+        "updatedAt": "2024-04-16T15:55:30.669Z",
+        "publishedAt": "2024-04-16T15:31:58.051Z",
+        "eventImage": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "pepper-earth-day.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 235,
+              "height": 270,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_pepper-earth-day.jpg",
+                  "hash": "thumbnail_pepper_earth_day_3216df7bcf",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 136,
+                  "height": 156,
+                  "size": 9.97,
+                  "sizeInBytes": 9972,
+                  "url": "/uploads/thumbnail_pepper_earth_day_3216df7bcf.jpg"
+                }
+              },
+              "hash": "pepper_earth_day_3216df7bcf",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 26.16,
+              "url": "/uploads/pepper_earth_day_3216df7bcf.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-04-16T15:52:59.441Z",
+              "updatedAt": "2024-04-16T15:52:59.441Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "eventTitle": "Student Art Exhibition",
+        "eventDate": "2024-04-08",
+        "createdAt": "2024-04-16T15:32:14.502Z",
+        "updatedAt": "2024-04-16T15:54:15.729Z",
+        "publishedAt": "2024-04-16T15:32:15.366Z",
+        "eventImage": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "pepper-student-art-exhibition.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 370,
+              "height": 270,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_pepper-student-art-exhibition.jpg",
+                  "hash": "thumbnail_pepper_student_art_exhibition_06f9ac1608",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 214,
+                  "height": 156,
+                  "size": 12.37,
+                  "sizeInBytes": 12374,
+                  "url": "/uploads/thumbnail_pepper_student_art_exhibition_06f9ac1608.jpg"
+                }
+              },
+              "hash": "pepper_student_art_exhibition_06f9ac1608",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 30.18,
+              "url": "/uploads/pepper_student_art_exhibition_06f9ac1608.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-04-16T15:54:13.023Z",
+              "updatedAt": "2024-04-16T15:54:13.023Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "eventTitle": "Robotics Competition",
+        "eventDate": "2024-04-15",
+        "createdAt": "2024-04-16T15:32:25.587Z",
+        "updatedAt": "2024-04-16T15:53:40.752Z",
+        "publishedAt": "2024-04-16T15:32:26.241Z",
+        "eventImage": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "pepper-robotics-competition.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 473,
+              "height": 266,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_pepper-robotics-competition.jpg",
+                  "hash": "thumbnail_pepper_robotics_competition_798577399f",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 245,
+                  "height": 138,
+                  "size": 7.03,
+                  "sizeInBytes": 7027,
+                  "url": "/uploads/thumbnail_pepper_robotics_competition_798577399f.jpg"
+                }
+              },
+              "hash": "pepper_robotics_competition_798577399f",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 15.18,
+              "url": "/uploads/pepper_robotics_competition_798577399f.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-04-16T15:53:36.651Z",
+              "updatedAt": "2024-04-16T15:53:36.651Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "eventTitle": "Annual Day",
+        "eventDate": "2024-03-31",
+        "createdAt": "2024-04-17T03:50:02.007Z",
+        "updatedAt": "2024-04-17T03:50:03.681Z",
+        "publishedAt": "2024-04-17T03:50:03.677Z",
+        "eventImage": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "pepper-annual-day.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 462,
+              "height": 270,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_pepper-annual-day.jpg",
+                  "hash": "thumbnail_pepper_annual_day_d6614c3935",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 245,
+                  "height": 143,
+                  "size": 11.9,
+                  "sizeInBytes": 11902,
+                  "url": "/uploads/thumbnail_pepper_annual_day_d6614c3935.jpg"
+                }
+              },
+              "hash": "pepper_annual_day_d6614c3935",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 31.12,
+              "url": "/uploads/pepper_annual_day_d6614c3935.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-04-17T03:49:57.282Z",
+              "updatedAt": "2024-04-17T03:49:57.282Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "eventTitle": "NCC (National Cadet Corps)",
+        "eventDate": "2024-01-30",
+        "createdAt": "2024-04-17T03:50:56.706Z",
+        "updatedAt": "2024-04-17T03:50:57.960Z",
+        "publishedAt": "2024-04-17T03:50:57.957Z",
+        "eventImage": {
+          "data": {
+            "id": 6,
+            "attributes": {
+              "name": "pepper-ncc.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 451,
+              "height": 270,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_pepper-ncc.jpg",
+                  "hash": "thumbnail_pepper_ncc_77733275f1",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 245,
+                  "height": 147,
+                  "size": 12.52,
+                  "sizeInBytes": 12519,
+                  "url": "/uploads/thumbnail_pepper_ncc_77733275f1.jpg"
+                }
+              },
+              "hash": "pepper_ncc_77733275f1",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 36.2,
+              "url": "/uploads/pepper_ncc_77733275f1.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-04-17T03:50:52.730Z",
+              "updatedAt": "2024-04-17T03:50:52.730Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "eventTitle": "Plantation Day",
+        "eventDate": "2024-02-14",
+        "createdAt": "2024-04-17T03:51:40.948Z",
+        "updatedAt": "2024-04-17T03:51:41.870Z",
+        "publishedAt": "2024-04-17T03:51:41.867Z",
+        "eventImage": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "pepper-plantation-day.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 259,
+              "height": 270,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_pepper-plantation-day.jpg",
+                  "hash": "thumbnail_pepper_plantation_day_8af11bfa9c",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 150,
+                  "height": 156,
+                  "size": 10.09,
+                  "sizeInBytes": 10086,
+                  "url": "/uploads/thumbnail_pepper_plantation_day_8af11bfa9c.jpg"
+                }
+              },
+              "hash": "pepper_plantation_day_8af11bfa9c",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 26.92,
+              "url": "/uploads/pepper_plantation_day_8af11bfa9c.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-04-17T03:51:37.918Z",
+              "updatedAt": "2024-04-17T03:51:37.918Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 8,
+      "attributes": {
+        "eventTitle": "Alumni Meet",
+        "eventDate": "2023-12-25",
+        "createdAt": "2024-04-17T03:52:24.623Z",
+        "updatedAt": "2024-04-17T03:52:25.331Z",
+        "publishedAt": "2024-04-17T03:52:25.329Z",
+        "eventImage": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "pepper-alumni-day.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 372,
+              "height": 270,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_pepper-alumni-day.jpg",
+                  "hash": "thumbnail_pepper_alumni_day_6e1acfcd50",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 215,
+                  "height": 156,
+                  "size": 9.65,
+                  "sizeInBytes": 9655,
+                  "url": "/uploads/thumbnail_pepper_alumni_day_6e1acfcd50.jpg"
+                }
+              },
+              "hash": "pepper_alumni_day_6e1acfcd50",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 20.41,
+              "url": "/uploads/pepper_alumni_day_6e1acfcd50.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-04-17T03:52:21.649Z",
+              "updatedAt": "2024-04-17T03:52:21.649Z"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 8
+    }
+  }
+}
