@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pepper_schools",
+  "info": {
+    "singularName": "pepper-school",
+    "pluralName": "pepper-schools",
+    "displayName": "pepper-school",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "eventTitle": {
+      "type": "string"
+    },
+    "eventDate": {
+      "type": "date"
+    },
+    "eventImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
